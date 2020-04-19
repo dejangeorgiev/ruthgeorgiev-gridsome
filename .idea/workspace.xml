@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ddce7b6c-38bc-4017-b69f-3ced1c7fa442" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/gridsome.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/gridsome.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/plugins/wp-source/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/plugins/wp-source/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +54,7 @@
       <workItem from="1586637784301" duration="23000" />
       <workItem from="1586678880273" duration="1864000" />
       <workItem from="1586783627029" duration="392000" />
-      <workItem from="1587288628460" duration="29000" />
+      <workItem from="1587288628460" duration="423000" />
     </task>
     <servers />
   </component>
@@ -66,5 +66,9 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="740" y="281" key="FileChooserDialogImpl/0.0.1920.1050/1920.0.1920.1080@0.0.1920.1050" timestamp="1586771361234" />
+    <state x="646" y="241" width="627" height="568" key="find.popup" timestamp="1587289027343">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="646" y="241" width="627" height="568" key="find.popup/0.0.1920.1050/1920.0.1920.1080@0.0.1920.1050" timestamp="1587289027343" />
   </component>
 </project>

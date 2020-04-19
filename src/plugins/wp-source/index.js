@@ -9,7 +9,7 @@ const TYPE_ATTACHEMENT = 'attachment'
 class WordPressSource {
   static defaultOptions () {
     return {
-      baseUrl: 'http://localhost/rg-wp-backend',
+      baseUrl: 'https://admin.ruthgeorgiev.com',
       apiBase: 'wp-json',
       perPage: 100,
       concurrent: 10,
