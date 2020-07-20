@@ -12,7 +12,7 @@
     "bootstrap-vue": "^2.0.0-rc.27",
     "gridsome": "^0.6.7",
     "gridsome-plugin-gtm": "^0.1.1",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "moment": "^2.24.0",
     "p-map": "^3.0.0",
     "vue": "^2.6.10"
